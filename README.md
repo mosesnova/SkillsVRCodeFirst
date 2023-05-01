@@ -5,3 +5,4 @@
 <h1> North Shore Aero Club - Auckland </ h1>
 
 ![Test Imag 8](https://github.com/mosesnova/SkillsVRCodeFirst/blob/master/robin.jpg)
+![Test Imag 8](https://github.com/mosesnova/SkillsVRCodeFirst/blob/master/IMG20230502033805.jpg)
